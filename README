@@ -1,0 +1,3 @@
+* Druid Docker cluster POC
+
+Run a Druid cluster with every component in a Docker

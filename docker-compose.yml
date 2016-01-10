@@ -1,0 +1,6 @@
+zookeeper:
+  image: camilocot/zookeeper:v1
+mysql:
+  image: camilocot/mysql:v1
+coordinator:
+  image: camilocot/coordinator:v1
